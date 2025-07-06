@@ -11,5 +11,5 @@ A basic Python script that demonstrates simple tumor detection logic, intended f
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/simple-tumor-detector.git
+git clone https://github.com/shinigxmi3087/simple-tumor-detector.git
 cd simple-tumor-detector
